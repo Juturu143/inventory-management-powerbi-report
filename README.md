@@ -6,6 +6,7 @@ This Power BI report analyzes inventory stock, vendor performance, and restockin
 
 ## 🖼 Preview
 
+
 ![Report](dashboard.png)
 
 ## 📊 Insights
